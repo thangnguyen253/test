@@ -1,0 +1,45 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "welcomeScreen": {
+    "login": "Đăng nhập",
+    "signUp": "Đăng ký"
+  },
+  "loginScreen": {
+    "username": "TÊN TÀI KHOẢN",
+    "password": "MẬT KHẨU",
+    "enterUsername": "Nhập tên tài khoản",
+    "enterPassword": "Nhập mật khẩu",
+    "forgotPassword": "Quên mật khẩu?",
+    "orUsing": "Hoặc sử dụng",
+    "login": "Đăng nhập"
+  },
+  "signUpScreen": {
+    "username": "TÊN TÀI KHOẢN",
+    "fullName": "HỌ TÊN",
+    "sex": "GIỚI TÍNH",
+    "password": "MẬT KHẨU",
+    "confirmPassword": "XÁC NHẬN MẬT KHẨU",
+    "email": "EMAIL",
+    "enterEmail": "Nhập email",
+    "enterUsername": "Nhập tên tài khoản",
+    "enterFullName": "Nhập họ tên",
+    "chooseSex": "Chọn giới tính",
+    "enterPassword": "Nhập mật khẩu",
+    "enterConfirmPassword": "Nhập lại mật khẩu",
+    "signUp": "Đăng ký"
+  },
+  "forgotPasswordScreen": {
+    "enterEmail": "Nhập email để đặt lại mật khẩu",
+    "sendMail": "Gửi Mail"
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}

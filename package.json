@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-native": "^0.63.4",
+    "react-native-background-timer": "^2.4.1",
+    "react-native-callkeep": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.16"
+  }
+}

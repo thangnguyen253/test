@@ -1,0 +1,41 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "welcomeScreen": {
+    "login": "Login",
+    "signUp": "Sign Up"
+  },
+  "loginScreen": {
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "enterUsername": "Enter your username",
+    "enterPassword": "Enter your password",
+    "forgotPassword": "Forgot password?",
+    "orUsing": "Or using",
+    "login": "Login"
+  },
+  "signUpScreen": {
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "confirmPassword": "CONFIRM PASSWORD",
+    "email": "EMAIL",
+    "enterEmail": "Enter your email",
+    "enterUsername": "Enter your username",
+    "enterPassword": "Enter your password",
+    "enterConfirmPassword": "Reenter your password",
+    "signUp": "Sign Up"
+  },
+  "forgotPasswordScreen": {
+    "enterEmail": "Enter your email to reset password",
+    "sendMail": "Send Mail"
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}
