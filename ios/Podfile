@@ -8,6 +8,8 @@ target 'ChitChat' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'RNCallKeep', :path => '../node_modules/react-native-callkeep'
+
   target 'ChitChatTests' do
     inherit! :complete
     # Pods for testing
